@@ -2,3 +2,4 @@ Nama	: Muhammad Islam Taufikurahman
 NPM	: 140810160062
 TTL	: Bandung/23 Juni 1998
 JK	: Laki-Laki
+Hobby	: Nonton Anime
