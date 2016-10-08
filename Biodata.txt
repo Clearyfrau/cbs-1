@@ -6,3 +6,6 @@ Hobby	: Nonton Anime
 
 Nama	: Beryl Cleary Hermanto
 NPM	: 140810160060
+TTL     : Cimahi, 26 Desember 1999
+JK      : Laki-laki
+Hobby   : Main game
